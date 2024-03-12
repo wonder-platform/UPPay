@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                    = "WonderUPPay"
+  s.name                    = "UPPay"
   s.version                 = "0.1.0"
   s.summary                 = "Wonder UPPAY SDK for iOS devices"
   s.description             = "beta testing"
