@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage                = "https://wonder.app/"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author                  = "Wonder Developer"
-  s.source                  = { :http => "https://github.com/Levey/WonderUPPay.git" }
+  s.source                  = { :http => "https://github.com/wonder-platform/UPPay.git" }
   s.ios.vendored_libraries = "uppay_kit/libPaymentControlMini.a"
   s.public_header_files = "uppay_kit/UPPaymentControl.h"
   s.static_framework = true
